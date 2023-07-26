@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mounir</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">A passionate developer from France, currently in training to become an application developer designer</h3>
 
 <p align="left">
 </p>
