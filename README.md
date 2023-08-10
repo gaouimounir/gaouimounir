@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mounir <p align="left">
+<h1 align="center">Hi 👋, I'm Mounir <p>
 <a href="https://www.linkedin.com/in/am-gaoui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/am-gaoui/" height="30" width="40" /></a></h1>
 
 <h3 align="center">A passionate developer from France, currently in training to become an application developer designer</h3>
