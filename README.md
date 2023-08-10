@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mounir</h1>
 <h3 align="center">A passionate developer from France, currently in training to become an application developer designer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/am-gaoui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/am-gaoui/" height="30" width="40" /></a>
-
-<p align="left">
-</p>
+<p align="left"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -27,7 +22,13 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
- [![Codewars](https://www.codewars.com/users/gaouimounir/badges/large)](https://www.codewars.com/users/gaouimounir)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/am-gaoui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/am-gaoui/" height="30" width="40" /></a>
+
+
+[![Codewars](https://www.codewars.com/users/gaouimounir/badges/large)](https://www.codewars.com/users/gaouimounir)
   
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaouimounir&show_icons=true&locale=en&layout=compact" alt="gaouimounir" /></p>
